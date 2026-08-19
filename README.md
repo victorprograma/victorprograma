@@ -34,19 +34,19 @@ My goal is to create software that solves real-world business problems while con
 
 ## 💼 Featured Projects
 
-### 🤖 AI Customer Support Assistant
+### 🤖 [AI Customer Support Assistant](https://github.com/victorprograma/AI-Customer-Support-Assistant)
 AI-powered customer support application built with Python, Streamlit and the OpenAI API.
 
-### 🧠 AI Lead Qualification System
+### 🧠 [AI Lead Qualification System](https://github.com/victorprograma/ai-lead-automation-python)
 AI system designed to analyze and prioritize potential customers using Python, OpenAI and Excel.
 
-### 📊 Sales Report Automation
+### 📊 [Sales Report Automation](https://github.com/victorprograma/python-sales-report-automation)
 Automated sales reporting and dashboard workflow using Python, Pandas and OpenPyXL.
 
-### 👥 Mini CRM
+### 👥 [Mini CRM](https://github.com/victorprograma/mini-crm-streamlit-python)
 Web-based CRM application built with Python, Streamlit and SQLite for managing leads and sales pipelines.
 
-### 🌐 Business Landing Page
+### 🌐 [Business Landing Page](https://github.com/victorprograma/climapro-landing-page)
 Responsive landing page built with HTML, CSS and JavaScript.
 
 ---
